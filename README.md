@@ -10,7 +10,6 @@ NO further commits will be written to this repo.
 
 Missing features that WILL exist in the assignment repo:
 
-- Search Bar which searches the Firestore database
 - User Review Storage and retrieval of said reviews.
 
 This website can be viewed at: https://rayyan-h-tafe-nsw.web.app/ & https://rayyan-h-tafe-nsw.firebaseapp.com/
