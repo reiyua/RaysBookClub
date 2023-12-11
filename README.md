@@ -4,7 +4,7 @@ This GitHub repository is designed to store my learning classwork, that being a 
 
 This website uses React.js, Bootstrap, React Bootstrap, React-DOM, React-Router-DOM and PHP and uses databases as part of the website. 
 
-This has been archived to allow me to focus on the assignment repository found at: https://github.com/rayy-an/RaysMovieClub
+This has been archived to allow me to focus on the assignment repository found at: https://github.com/reiyua/RaysMovieClub
 
 NO further commits will be written to this repo.
 
