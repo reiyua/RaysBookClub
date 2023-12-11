@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RaysBookClub/static/css/main.6ccd65a8.css",
+    "main.js": "/RaysBookClub/static/js/main.e1e22189.js",
+    "static/js/787.fe1675bb.chunk.js": "/RaysBookClub/static/js/787.fe1675bb.chunk.js",
+    "index.html": "/RaysBookClub/index.html",
+    "main.6ccd65a8.css.map": "/RaysBookClub/static/css/main.6ccd65a8.css.map",
+    "main.e1e22189.js.map": "/RaysBookClub/static/js/main.e1e22189.js.map",
+    "787.fe1675bb.chunk.js.map": "/RaysBookClub/static/js/787.fe1675bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ccd65a8.css",
+    "static/js/main.e1e22189.js"
+  ]
+}
