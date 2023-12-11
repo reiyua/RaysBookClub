@@ -12,4 +12,8 @@ Missing features that WILL exist in the assignment repo:
 
 - User Review Storage and retrieval of said reviews.
 
-This website can be viewed at: https://rayyan-h-tafe-nsw.web.app/ & https://rayyan-h-tafe-nsw.firebaseapp.com/
+This website can be viewed through two services: 
+
+Google Firebase Hosting: https://rayyan-h-tafe-nsw.web.app/ & https://rayyan-h-tafe-nsw.firebaseapp.com/
+
+GitHub Pages: https://reiyua.github.io/RaysBookClub/
