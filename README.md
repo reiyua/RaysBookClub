@@ -16,4 +16,6 @@ This website can be viewed through two services:
 
 Google Firebase Hosting: https://rayyan-h-tafe-nsw.web.app/ & https://rayyan-h-tafe-nsw.firebaseapp.com/
 
-GitHub Pages: https://reiyua.github.io/RaysBookClub/
+GitHub Pages (Seem's to not work due to not supporting React Router): https://reiyua.github.io/RaysBookClub/
+
+Netlify (Seem's to not actually load anything): https://amazing-begonia-8f2384.netlify.app
