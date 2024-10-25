@@ -1,5 +1,8 @@
 # RaysBookClub
 
+# ATTENTION: Due to Google Firebase removing access to the Cloud Storage access for non-paying users on October 1 2025, this site will no longer function as it can no longer call images for the book listings.
+# NO FURTHER SUPPORT is being provided anymore for this project. 
+
 This GitHub repository is designed to store my learning classwork, that being a website hosted on Google Firebase to help me learn React.js and it's derivatives for an upcoming assessment at TAFE NSW as part of my Diploma in General I.T.
 
 This website uses React.js, Bootstrap, React Bootstrap, React-DOM, React-Router-DOM and PHP and uses databases as part of the website. 
