@@ -1,6 +1,5 @@
 # RaysBookClub
 
-# This site can be viewed in replacement of the RaysMovieClub website issue thanks to Google Firebase.
 
 ## ATTENTION: Due to Google Firebase removing access to the Cloud Storage access for non-paying users on October 1 2025, this site will no longer function when this occurs as it can no longer call images for the book listings.
 ## NO FURTHER SUPPORT is being provided anymore for this project. 
