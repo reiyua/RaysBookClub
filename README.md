@@ -1,7 +1,7 @@
 # RaysBookClub
 
 
-## ATTENTION: Due to Google Firebase removing access to the Cloud Storage access for non-paying users on October 1 2025, this site will no longer function when this occurs as it can no longer call images for the book listings.
+## ATTENTION: Due to Google Firebase removing access to the Cloud Storage access for non-paying users on February 2, 2026, this site will no longer function when this occurs as it can no longer call images for the book listings.
 ## NO FURTHER SUPPORT is being provided anymore for this project. 
 
 This was initially cloned from https://github.com/mujohannes/fbReactS2Dip23 - I have since left the fork network as the original repository will be deleted.
